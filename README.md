@@ -20,7 +20,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 👩‍💻 Author
 
-**Harshinee Challa** - [@yourusername](https://github.com/harshinee-challa)
+**Harshinee Challa** - [@harshinee-challa](https://github.com/harshinee-challa)
 
 ---
 
